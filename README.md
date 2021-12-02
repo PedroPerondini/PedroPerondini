@@ -1,7 +1,8 @@
 ## Olá, meu nome é Pedro Perondini, seja bem vindo ao meu perfil! 
 
-- 🔭 Desenvolvedor de software com foco em back-end, atualmente utilizo C# e MongoDB
-- 🌱 Me aprofundando no C#, e em alguns fundamentos de estrutura de software, código limpo, padrões de GoF e etc...
+- 👦 Desenvolvedor de software com foco em back-end, atualmente utilizo C# e MongoDB
+- 📝 Me aprofundando no C#, e em alguns fundamentos de estrutura de software, código limpo, padrões de GoF e etc...
+- 🔜 Em breve desenvolvedor Full Stack, após estar fera no back-end, pretendo me aprofundar ainda mais nas tecnologias de front-end
 - 📫 Entre em contato via e-mail [pedroperondini@gmail.com], ou pelo LinkedIn [www.linkedin.com/in/pedro-perondini]
 
 <div align = "center">
